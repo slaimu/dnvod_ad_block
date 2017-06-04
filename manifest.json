@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "dnvod add block",
+  "description": "",
+  "version": "1.0",
+  "page_action": {
+    "default_icon": "adblock.png"
+  },
+  "background": {
+    "page":"popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "http://www.dnvod.tv/upload/upload/*",
+    "http://www.dnvod.tv/upload/gaming/*",
+    "http://static.dnvod.tv/upload/gaming/*",
+    "webRequest",
+    "webRequestBlocking"
+  ]
+}
