@@ -9,6 +9,14 @@
   "background": {
     "page":"popup.html"
   },
+
+  "content_scripts": [
+    {
+      "matches": ["http://www.dnvod.tv/*"],
+      "js": ["hiddenAd.js"]
+    }
+  ],
+
   "permissions": [
     "tabs",
     "http://www.dnvod.tv/upload/upload/*",
