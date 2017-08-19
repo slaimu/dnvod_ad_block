@@ -5,7 +5,7 @@ chrome.webRequest.onBeforeRequest.addListener (
     },
 
     {urls:[
-        "http://www.dnvod.tv/upload/upload/*",
+        "http://www.dnvod.tv/upload/mycontent/*",
         "http://www.dnvod.tv/upload/gaming/*",
         "http://static.dnvod.tv/upload/gaming/*"]},
     ["blocking"]
