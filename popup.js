@@ -5,6 +5,7 @@ chrome.webRequest.onBeforeRequest.addListener (
     },
 
     {urls:[
+        "http://static.dnvod.tv/upload/2016/*", 
         "http://www.dnvod.tv/upload/mycontent/*",
         "http://www.dnvod.tv/upload/gaming/*",
         "http://static.dnvod.tv/upload/gaming/*"]},
