@@ -19,6 +19,8 @@
 
   "permissions": [
     "tabs",
+    "http://public.dnvod.tv/upload/public/*",
+    "http://public.dnvod.tv/upload/user/*",
     "http://www.dnvod.tv/upload/upload/*",
     "http://www.dnvod.tv/upload/gaming/*",
     "http://static.dnvod.tv/upload/gaming/*",
