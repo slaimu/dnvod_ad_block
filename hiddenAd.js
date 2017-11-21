@@ -12,5 +12,3 @@ for (i = 0; i < ad_list.length; i += 1) {
     }
 }
 
-document.querySelector('.bfq-l').style.width='100%';
-document.querySelector('embed').style.width="100%";
