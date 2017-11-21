@@ -1,4 +1,4 @@
-var ad_list = ['#msg_winw', "#clickbgleft", "#clickbgright", ".ggw-l", ".r-gg", ".tgg", ".bfq-r"],
+var ad_list = ['#msg_winw', "#clickbgleft", "#clickbgright", ".ggw-l", ".r-gg", ".tgg", ".bfq-r", ".dnpub"],
     dom_list,
     j,
     i;
