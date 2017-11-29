@@ -12,6 +12,7 @@ chrome.webRequest.onBeforeRequest.addListener (
         "http://www.dnvod.tv/upload/gaming/*",
         "http://static.dnvod.tv/upload/gaming/*",
         "http://s1-a1.dnvod.tv/*",
-        "http://s1-a2.dnvod.tv/*"]},
+        "http://s1-a2.dnvod.tv/*",
+        "http://s1-a3.dnvod.tv/*"]},
     ["blocking"]
 );
