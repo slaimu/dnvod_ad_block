@@ -34,6 +34,7 @@
     "http://s1-a8.dnvod.tv/*",
     "http://s1-a9.dnvod.tv/*",
 
+
     "webRequest",
     "webRequestBlocking"
   ]
