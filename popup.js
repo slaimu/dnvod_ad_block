@@ -1,4 +1,4 @@
-/*
+
 chrome.webRequest.onBeforeRequest.addListener (
 
     function(details) {
@@ -26,4 +26,3 @@ chrome.webRequest.onBeforeRequest.addListener (
     ["blocking"]
 );
 
-*/
