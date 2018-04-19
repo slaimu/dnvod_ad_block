@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "dnvod add block",
-  "description": "",
+  "name": "dnvod ad block 多瑙去广告插件",
+  "description": "安装插件后点击进入视频播放页，就可去除广告.本插件开源，源码在:https://github.com/slaimu/dnvod_ad_block/",
   "version": "1.0",
   "page_action": {
     "default_icon": "adblock.png"
